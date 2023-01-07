@@ -10,4 +10,6 @@
 
 - Also would planned to build a recommender system for users to take which kind of card based on their gender and purchases.
 
+- Using forecasting to predict amount people would spend on food and other types based on gender and card type
+
 - Data set source - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
