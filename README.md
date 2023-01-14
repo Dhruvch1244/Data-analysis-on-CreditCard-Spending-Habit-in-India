@@ -12,6 +12,6 @@
 
 - Using forecasting to predict amount people would spend on food and other types based on gender and card type
 
-- Learning and guiding people to choose appropriate card
+- Learning and suggesting people to choose appropriate card
 
 - Data set source - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
