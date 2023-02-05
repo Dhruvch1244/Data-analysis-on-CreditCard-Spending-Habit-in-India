@@ -2,8 +2,6 @@
 
 - Using numpy , pandas and Matplot lib library to plot and analyse trends.
 
-- Planned to use tensorflow to predict gender , card type using amount to train the model.
-
 - Also Planned to estimate the location of people with most spending habits.
 
 - Analysing What type of credit users takes most to pay for like bills,travel,fuel etc
